@@ -4,7 +4,7 @@ This is a collection of python 2 codes I made at my workplace. The reason I used
 ## List of Codes:
 * Screensaver Saver
 * Snake Game
-* STL visualizer
+* STL Renderer
 * Mouse Playback
 
 ## Screensaver Saver
@@ -13,7 +13,7 @@ Simple solution to break the screensaver policy by simulating keyboard input if 
 ## Snake Game
 Text based version of the old time classic game. Haha, snake in python...
 
-## STL visualizer
+## STL Renderer
 Simple STL visualizer. It's can read any binary STL file. The visualization is wireframe only.
 
 ## Mouse Playback
