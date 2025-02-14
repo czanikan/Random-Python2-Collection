@@ -6,6 +6,7 @@ This is a collection of python 2 codes I made at my workplace. The reason I used
 * Snake Game
 * STL Renderer
 * Mouse Playback
+* No Need For Mouse
 
 ## Screensaver Saver
 Simple solution to break the screensaver policy by simulating keyboard input if the mouse is idle for a while.
@@ -18,3 +19,6 @@ Simple STL visualizer. It's can read any binary STL file. The visualization is w
 
 ## Mouse Playback
 With this few lines of code you can easily record your mouse movement and play it back. Can be useful sometimes.
+
+##No Need For Mouse
+No Mouse? No problem. Just run this code (somehow), hold the the multiply button and you can navigate the cursor by the WASD buttons. You can also do left/right clicks with the Q/E buttons.
