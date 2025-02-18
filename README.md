@@ -8,6 +8,7 @@ This is a collection of python 2 codes I made at my workplace. The reason I used
 * Mouse Playback
 * No Need For Mouse
 * Chat Server
+* TidyUp
 
 ## Screensaver Saver
 Simple solution to break the screensaver policy by simulating keyboard input if the mouse is idle for a while.
@@ -26,3 +27,6 @@ No Mouse? No problem. Just run this code (somehow), hold the the multiply button
 
 ## Chat Server
 A simple client-server chat system up to 5 people to hang out. Still in early development.
+
+## Tidy Up
+Small script to organize files in a folder. It's create folders based on the files' extensions and move them to the correct directory. 
