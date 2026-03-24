@@ -1,5 +1,5 @@
 # Random Python2 Collection
-This is a collection of python 2 codes I made at my workplace. The reason I used python2 is py2.5 was the only python version what I can use in the office. I don't have access to pip, so I only used the built-in packages in all of my projects. 
+This is a collection of python 2 projects I made in my freetime. All the projects made with python 2.5 and native packages (some of them windows only). The main reason for this collection is to push the boundaries of such a limited development environment.
 
 ## List of Codes:
 * Screensaver Saver
@@ -10,6 +10,7 @@ This is a collection of python 2 codes I made at my workplace. The reason I used
 * Chat Server
 * TidyUp
 * RSA
+* Retro Browser
 
 ## Screensaver Saver
 Simple solution to break the screensaver policy by simulating keyboard input if the mouse is idle for a while.
@@ -34,3 +35,6 @@ Small script to organize files in a folder. It's create folders based on the fil
 
 ## RSA
 Simple RSA implementation with python 2.5
+
+## Retro Browser
+A light-weight browser with tabs and history. Can render text-based, html websites.
